@@ -1,1 +1,1 @@
-# gitEgitimi
+# git Eğitimi
